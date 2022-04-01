@@ -1,0 +1,5 @@
+import "./deposit"
+import "./withdraw"
+import "./addProposal"
+import "./vote"
+import "./finish"
